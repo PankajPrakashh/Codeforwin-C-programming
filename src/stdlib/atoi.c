@@ -1,7 +1,7 @@
 /**
  * @author          Pankaj Prakash
  * @website         http://codeforwin.org/
- * @lastmodified    11:35 AM, January 5, 2018
+ * @lastmodified    11:51 AM, January 4, 2018
  * @description     C programt to convert string to integer using atoi library function.
  *                  
  *                  Syntax - int atoi (const char * str); 
