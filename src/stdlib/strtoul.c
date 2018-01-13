@@ -22,7 +22,7 @@ int main()
 
     /* Input string representation of number from user. */
     printf("Enter any number: ");
-    gets(number);
+    fgets(number, 30, stdin);
 
 
     printf("Enter base: ");

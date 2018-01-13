@@ -18,7 +18,7 @@ int main()
 
     /* Input string representation of integer from user. */
     printf("Enter any integer: ");
-    gets(number);
+    fgets(number, 30, stdin);
 
 
     /* Convert string representation of number to integer */
