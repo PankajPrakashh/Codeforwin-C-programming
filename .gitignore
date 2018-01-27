@@ -1,3 +1,4 @@
 # Ignore bin directory
 /bin/
 c-programming-ws.code-workspace
+.vscode/*
