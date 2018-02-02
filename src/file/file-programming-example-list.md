@@ -10,7 +10,7 @@
     <li>C program to delete all blank lines in a file.</li>
     <br>
     <li>C program to create, read, edit and close a file.</li>
-    <li>C program to append data into a file.</li>
+    <li><a href="http://codeforwin.org/2018/02/c-program-append-data-file.html" target="_blank">C program to append data into a file.</a></li>
     <li>C program to compare two files character by character.</li>
     <li>C program to compare two files line by line.</li>
     <li>C program to compare two binary files..</li>
