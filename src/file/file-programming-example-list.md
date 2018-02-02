@@ -1,12 +1,12 @@
 <h2>List of file programming exercises</h2>
 
 <ol>
-    <li>C program to create a file and display its content.</li>
-    <li>C program to read contents of a given file.</li>
-    <li>C program to read a file line by line.</li>
+    <li><a href="http://codeforwin.org/2018/01/c-program-create-file-write-contents.html" target="_blank">C program to create a file and display its content.</a></li>
+    <li><a href="http://codeforwin.org/2018/01/c-program-read-and-display-file-contents.html" target="_blank">C program to read contents of a given file.</a></li>
+    <li><a href="http://codeforwin.org/2018/01/c-program-read-and-display-file-contents.html" target="_blank">C program to read a file line by line.</a></li>
     <li>C program to create a binary file and read its content.</li>
     <li>C program to read file contents from specific position using fseek.</li>
-    <li>C program to read numbers from a file and write even, odd and prime numbers in separate files.</li>
+    <li><a href="http://codeforwin.org/2018/01/c-program-write-even-odd-prime-numbers-separate-file.html">C program to read numbers from a file and write even, odd and prime numbers in separate files.</a></li>
     <li>C program to delete all blank lines in a file.</li>
     <br>
     <li>C program to create, read, edit and close a file.</li>
