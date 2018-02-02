@@ -1,4 +1,4 @@
-<h2>List of file programming exercises</h2>
+<h1>List of file programming exercises</h1>
 
 <ol>
     <li><a href="http://codeforwin.org/2018/01/c-program-create-file-write-contents.html" target="_blank">C program to create a file and display its content.</a></li>
