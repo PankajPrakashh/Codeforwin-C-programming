@@ -11,10 +11,9 @@
     <br>
     <li>C program to create, read, edit and close a file.</li>
     <li><a href="http://codeforwin.org/2018/02/c-program-append-data-file.html" target="_blank">C program to append data into a file.</a></li>
-    <li>C program to compare two files character by character.</li>
-    <li>C program to compare two files line by line.</li>
-    <li>C program to compare two binary files..</li>
-    <li>C program to copy file.</li>
+    <li><a href="http://codeforwin.org/2018/02/c-program-compare-two-files.html" target="_blank">C program to compare two files character by character.</a></li>
+    <li>C program to compare two binary files.</li>
+    <li><a href="http://codeforwin.org/2018/02/c-program-to-copy-file.html" target="_blank">C program to copy file.</a></li>
     <li>C program to concatenate two files.</li>
     <li>C program to merge two files.</li>
     <br>
